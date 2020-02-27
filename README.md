@@ -1,1 +1,9 @@
 # Data-Mining-Seminar
+
+Ideje:
+
+-
+
+
+
+-
