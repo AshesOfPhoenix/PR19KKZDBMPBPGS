@@ -1,4 +1,5 @@
 # Data-Mining-Seminar
+ - Yes
 
 
 Ideje:
