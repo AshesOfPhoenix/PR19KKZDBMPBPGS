@@ -11,3 +11,16 @@ Različni cilj oz. ideje:
 
 Link do netflix dataset: https://www.kaggle.com/shivamb/netflix-shows
 IMDb dataset: https://www.imdb.com/interfaces/
+
+PRIMARY:
+-izločiutev vsakega filma iz imdb baze(rating max ratingou)
+
+Raziskava:
+-  v katerih državaj je film narjen
+-  poizvedba o dovoljenu filma/serije v državi
+-  pocene filmov posameznega direktorja
+-  10 najboljših igralcev
+-  najbolj popularni žanri na netfilxu
+-  kaj je bolje ocenjeno filmi ali serije
+-  podobnost med direktorji filmov
+-  graf koliko filmov je na netfilxu skozi vsako leto, nihovo uspešnost
