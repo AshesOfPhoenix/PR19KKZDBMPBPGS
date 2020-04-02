@@ -1,4 +1,4 @@
-# Vmesno poročino o opravljenem delu
+# Vmesno poročilno o opravljenem delu
 
 Datum oddaje poročila: 2.4.2020
 
