@@ -1,4 +1,4 @@
-# Vmesno poročino o opravljenem delu
+# Vmesno poročilo o opravljenem delu
 
 Datum oddaje poročila: 2.4.2020
 
@@ -9,6 +9,8 @@ Avtorji:
 - Martin Potočan,
 - Žan Dodič Bržan.
 
+Mentor:
+- doc. dr. Tomaž Curk
 
 
 # Opis Problema
@@ -17,9 +19,9 @@ Za problem smo si izbrali bolj raziskovalno nalogo. Zadali smo si da bomo še ve
 
 Torej za začetek smo si izbrali par nalog, ki jih želio rešit oziroma raziskat:
 - Poiskat filme z največ zaslužka
-- Najbolj popularne filme ( Na netflixu oz. kjerkoli)
-- Ali so filmi oz. serije od netflixa slabsi kot navadni filmi (iste žanre npr.)
-- Kako se je spreminjala količina filmov in seriji na netfflixu
+- Najbolj popularne filme ( Na Netflixu oz. kjerkoli)
+- Ali so filmi oz. serije od Netflixa slabši kot navadni filmi (iste žanre npr.)
+- Kako se je spreminjala količina filmov in seriji na Netflixu
 - Najbolj gledane žanre
 - in še več nalog si bomo zadali do končnega poročila.
 
@@ -44,11 +46,15 @@ Vsaka naslednja vrstica v datoteki ustreza oceni stranke in datum v naslednji ob
 
 - IMDB baza z imdb.com spletne strani (https://www.imdb.com/interfaces/https://www.imdb.com/interfaces/)
 
-- Ter še ena netflixova baza z kaggla vendar neuradna (https://www.kaggle.com/shivamb/netflix-shows)
+- Ter še ena Netflixova baza z kaggla vendar neuradna (https://www.kaggle.com/shivamb/netflix-shows)
 
 # Glavne Ugotovitve
 
-
+Zaenkrat imamo par ugotovitev, kot so:
+ - Amerika ma največ filmov, in za njo je Indija
+ - Če delimo podatke na dva tipa torej filmi in serije, Netflix vsebuje kar 40% serij.
+ - Najboljše ocenjen filem na Netflixu je God of War
+ - Najboljše ocenjena serija na Netflix je Planet Earth II
 
 # Izvedene analize in zanimivi rezultati
 
