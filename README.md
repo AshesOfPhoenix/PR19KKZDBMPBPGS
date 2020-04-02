@@ -3,11 +3,11 @@
 Datum oddaje poročila: 2.4.2020
 
 Avtorji:
-- *Kristjan Križman, 
-- *Boštjan Perkan, 
-- *Gregor Šink, 
-- *Martin Potočan,
-- *Žan Dodič Bržan
+- Kristjan Križman, 
+- Boštjan Perkan, 
+- Gregor Šink, 
+- Martin Potočan,
+- Žan Dodič Bržan.
 
 
 
@@ -25,7 +25,7 @@ Torej za začetek smo si izbrali par nalog, ki jih želio rešit oziroma raziska
 
 # Podatki
 
-Podatke jemljemo iz dveh baz:
+Podatke jemljemo iz treh različnih virov:
 
 - Netflixova (officialna) baza z kaggla kjer so meli tekmovanje (https://www.kaggle.com/netflix-inc/netflix-prize-data)
 Datoteka "training_set.tar" je imenik, ki vsebuje 17770 datotek, eno
