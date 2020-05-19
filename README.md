@@ -52,7 +52,7 @@ Vsaka naslednja vrstica v datoteki ustreza oceni stranke in datum v naslednji ob
 
 Zaenkrat imamo par ugotovitev, kot so:
  - Amerika ma največ filmov, in za njo je Indija
- - Če delimo podatke na dva tipa torej filmi in serije, Netflix vsebuje kar 40% serij.
+ - Če delimo podatke na dva tipa torej filmi in serije, Netflix vsebuje kar 40% serij
  - Najboljše ocenjen filem na Netflixu je God of War
  - Najboljše ocenjena serija na Netflix je Planet Earth II
 
