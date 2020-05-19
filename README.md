@@ -57,7 +57,7 @@ Zaenkrat imamo par ugotovitev, kot so:
  - Najboljše ocenjena serija na Netflix je Planet Earth II
 
 # Izvedene analize in zanimivi rezultati
-
+ - V datoteki taksB.ipynb
 
 
 
