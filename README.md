@@ -17,7 +17,7 @@ Mentor:
 
 Za problem smo si izbrali bolj raziskovalno nalogo. Zadali smo si da bomo še več raziskovali po svetu filmov in seriji. V domači nalogi smo se spoznali z eno bazo takega tipa podatkov, podobno naši zadani raziskovalni nalogi, vendar so bli podatki starejši ter pomanjkljivi.
 
-Torej za začetek smo si izbrali par nalog, ki jih želio rešit oziroma raziskat:
+Torej za začetek smo si izbrali par nalog, ki jih želimo rešit oziroma raziskat:
 - Poiskat filme z največ zaslužka
 - Najbolj popularne filme ( Na Netflixu oz. kjerkoli)
 - Ali so filmi oz. serije od Netflixa slabši kot navadni filmi (iste žanre npr.)
