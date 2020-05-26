@@ -23,3 +23,4 @@ for jak,avg in baza[["listed_in"]].iterrows():
 len(seznam.keys())
 
 # %%
+
