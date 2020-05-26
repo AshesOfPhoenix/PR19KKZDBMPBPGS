@@ -45,7 +45,7 @@ data = table_from_frame(najboljpopularni)
 X = data.X
 Y = data.Y
 
-L = sch.linkage(X, method="average", metric="cityblock")
+L = sch.linkage(X, method="average", metric="jaccard")
 
 plt.figure(figsize=(4, 15))
 labels = [row["title"].value for row in data]
