@@ -182,8 +182,8 @@ for director in drugislovar.keys():
             usa[director]=drugislovar[director]
 # %%
 usa={k: v for k, v in sorted(usa.items(), key=lambda item: item[1])}
-slo={k: v for k, v in sorted(slo.items(), key=lambda item: item[1])}
-sr={k: v for k, v in sorted(sr.items(), key=lambda item: item[1])}
+#slo={k: v for k, v in sorted(slo.items(), key=lambda item: item[1])}
+#sr={k: v for k, v in sorted(sr.items(), key=lambda item: item[1])}
 uk={k: v for k, v in sorted(uk.items(), key=lambda item: item[1])}
 fra={k: v for k, v in sorted(fra.items(), key=lambda item: item[1])}
 
