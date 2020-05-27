@@ -50,6 +50,8 @@ Vsaka naslednja vrstica v datoteki ustreza oceni stranke in datum v naslednji ob
 
 - Ter še ena Netflixova baza z kaggla vendar neuradna (<https://www.kaggle.com/shivamb/netflix-shows)>
 
+## Priprava podatkov
+    Za začetek smo prebrali posebej prebrali netflix_titles.csv ter vse IMDB csv datoteke. Ustvarili smo svoj csv file kjer smo vse neznane direktorje v netflixu probali najti te direktorje v IMDB bazi ter prazne prostore tako nadomestili z imenom oz -1, če ta direktor tega filma sploh ne obstaja. Datoteko smo še izvozili ter z njim delali v nadalnjih raziskavah.
 ## Glavne Ugotovitve
 
 Zaenkrat imamo par ugotovitev, kot so:
