@@ -10,11 +10,16 @@ Avtorji:
 - Martin Potočan,
 - Žan Dodič Bržan.
 
-Mentor:
+Mentorji:
 
 - doc. dr. Tomaž Curk
+- Rok Gomišček
+- Amra Omanović
 
 ## Priprava podatkov
+
+    Ker smo za popestritev podatkov izbrali 2 različni bazi, od Netflixa, ki smo jo našli na kegglu ter officialno bazo od IMDBja, smo z pripravo podatkov imeli nekaj malih izivov.
+    
 
     Za začetek smo posebej prebrali netflix_titles.csv ter vse IMDB csv datoteke. Ustvarili smo svoj csv file kjer smo vse neznane režiserje v netflixu probali najti te režiserje v IMDB bazi ter prazne prostore tako nadomestili z imenom oz -1, če ta režiser tega filma sploh ne obstaja. Datoteko smo še izvozili ter z njim delali v nadalnjih raziskavah.
 
