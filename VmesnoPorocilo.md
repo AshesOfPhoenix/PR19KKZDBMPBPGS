@@ -62,7 +62,8 @@ Zaenkrat imamo par ugotovitev, kot so:
 - Najboljše ocenjena serija na Netflix je Planet Earth II
 - Na Netflixu je 60% filmov in 40% serij
 - Največ  filmov je posnetih v ZDA, zatem sledijo presenetljivo Indija, Velika Britanija, Kanada ter Francija.
-- 
+- Najboljši direktorji v Ameriki so Ken Burns,Vikramaditya Motwane in  Luis C.K. .Najslabši pa Ron HOward, Chris Stokes ter Mark A.Z Dippe. Poizvedbe o najboljših direktorjih smo naredili tudi za Veliko Britanijo, Francijo, Nemčijo ter Indijo. Za več podrobnosti obiščite direktorji.ipynb.
+
 
 ## Izvedene analize in zanimivi rezultati
 
