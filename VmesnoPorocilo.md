@@ -60,6 +60,9 @@ Zaenkrat imamo par ugotovitev, kot so:
 - Če delimo podatke na dva tipa torej filmi in serije, Netflix vsebuje kar 40% serij
 - Najboljše ocenjen filem na Netflixu je God of War
 - Najboljše ocenjena serija na Netflix je Planet Earth II
+- Na Netflixu je 60% filmov in 40% serij
+- Največ  filmov je posnetih v ZDA, zatem sledijo presenetljivo Indija, Velika Britanija, Kanada ter Francija.
+- 
 
 ## Izvedene analize in zanimivi rezultati
 
